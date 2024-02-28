@@ -8,6 +8,7 @@ export const theme = {
     mono2: "#bebebe",
     mono3: "#d6d7d9",
     error: "#d01e1e",
+    test: "#d01e1e",
   },
   fontSize: "16px",
 };
